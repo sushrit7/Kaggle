@@ -1,3 +1,3 @@
-This is my first try in Kaggle. 
+This is my first try on Kaggle. 
 
 
